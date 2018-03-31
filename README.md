@@ -9,7 +9,7 @@ The website for me
 <body>
 
 <h1>Owen Luo</h1>
-<p>Programmer, Eagle Scout, Student.</p>
+<p>Computer Scientist, Eagle Scout, Student.</p>
 
 </body>
 </html>
